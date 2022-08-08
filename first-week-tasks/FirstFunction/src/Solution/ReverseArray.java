@@ -22,5 +22,6 @@ public class ReverseArray {
         printArray(array);
         reverseArray(array);
         printArray(array);
+        
     }
 }
